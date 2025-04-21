@@ -1,7 +1,5 @@
 /* Custom */
 
-/* Utilities */
-
 .custom-logo{
     height: 50px;
 }
@@ -10,3 +8,11 @@
     background-color: #1a1e21;
 }
 
+.custom-svg{
+    display: flex
+}
+
+.custom-icon{
+    border: 1px solid;
+    border-radius: 2px;
+}
